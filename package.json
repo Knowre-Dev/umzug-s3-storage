@@ -1,0 +1,33 @@
+{
+  "name": "umzug-s3-storage",
+  "version": "0.0.0",
+  "description": "S3 storage interface for umzug",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "npx eslint -c .eslint.json .",
+    "test": "npm run lint && npx ava test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knowre-Dev/umzug-s3-storage.git"
+  },
+  "keywords": [
+    "umzug",
+    "storage",
+    "s3"
+  ],
+  "author": "Kivol <kivoloid@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Knowre-Dev/umzug-s3-storage/issues"
+  },
+  "homepage": "https://github.com/Knowre-Dev/umzug-s3-storage#readme",
+  "devDependencies": {
+    "ava": "0.24.0",
+    "eslint": "4.14.0",
+    "umzug": "2.1.0"
+  },
+  "dependencies": {
+    "aws-sdk": "2.176.0"
+  }
+}
