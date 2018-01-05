@@ -1,6 +1,6 @@
 {
   "name": "umzug-s3-storage",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "S3 storage interface for umzug",
   "main": "lib/index.js",
   "scripts": {
