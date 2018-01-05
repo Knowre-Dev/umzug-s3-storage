@@ -1,0 +1,8 @@
+**/dist/*
+!**/dist
+**/node_modules/*
+**/.DS_Store
+**/Thumbs.db
+**/lerna-debug.log
+**/npm-debug.log
+**/yarn-error.log
