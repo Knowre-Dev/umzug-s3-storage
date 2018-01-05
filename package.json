@@ -1,6 +1,6 @@
 {
   "name": "umzug-s3-storage",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "S3 storage interface for umzug",
   "main": "lib/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Knowre-Dev/umzug-s3-storage.git"
+    "url": "https://github.com/Knowre-Dev/umzug-s3-storage"
   },
   "keywords": [
     "umzug",
