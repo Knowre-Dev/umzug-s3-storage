@@ -1,6 +1,6 @@
 {
   "name": "umzug-s3-storage",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "S3 storage interface for umzug",
   "main": "lib/index.js",
   "scripts": {
@@ -28,6 +28,6 @@
     "umzug": "2.1.0"
   },
   "dependencies": {
-    "aws-sdk": "2.176.0"
+    "aws-sdk": "2.205.0"
   }
 }
